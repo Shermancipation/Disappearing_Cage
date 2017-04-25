@@ -1,0 +1,38 @@
+#globalwrapper {
+  display: block;
+  width: 970px;
+  height: 1000px;
+  vertical-align: middle;
+}
+
+#imagewrapper {
+  display: block;
+  width: 970px;
+  height: 350px;
+  /*border: 1px dotted red;*/
+
+}
+
+img {
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  margin-left: 31px;
+  margin-top: 15px;
+  border: 2px solid gray;
+}
+
+button {
+  display: inline-block;
+  margin-left: 420px;
+  margin-top: 20px;
+  height: 50px;
+  width: 150px;
+  background: #006600;
+  border: 5px solid gray;
+  color: white;
+  font-family: "Courier", serif, sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+
+}
